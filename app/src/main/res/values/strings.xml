@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MultiNotePad</string>
+    <string name="add_note">add_note</string>
+    <string name="save">save_note</string>
+    <string name="about">about</string>
+    <string name="note">note</string>
+    <string name="Note_n">note_n</string>
+    <string name="Title_n">Title</string>
+    <string name="Title">Title</string>
+    <string name="New_Title" />
+    <string name="New_Note" />
+    <string name="Note_h">Note</string>
+    <string name="C_Note" />
+    <string name="Note_c" />
+    <string name="dt" />
+    <string name="datetime" >DateTime</string>
+    <string name="title_c" />
+    <string name="Note_card">Note</string>
+    <string name="Title_About">Multi-Notes</string>
+    <string name="About_T" />
+    <string name="T_about">Multi-Notes</string>
+    <string name="hint_about">Multi-Notes</string>
+    <string name="t_about">Multi-Notes</string>
+    <string name="multi_notes">Multi-Notes</string>
+    <string name="Tit_Abo">Multi-Notes</string>
+    <string name="t_a">Multi-Notes</string>
+    <string name="Title_abt">Multi-Notes</string>
+    <string name="title_n">Multi-Notes</string>
+    <string name="copy">© 2017, Sharul Saxena</string>
+    <string name="ver">Version 1.0</string>
+</resources>
